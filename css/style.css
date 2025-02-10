@@ -28,6 +28,10 @@ body
 {
     background: linear-gradient(90deg, #303030, #61154d);
 }
+section{
+    margin: 0;
+    padding: 0;
+}
 .First {
     background-color: #b82010;
     text-align: justify;
