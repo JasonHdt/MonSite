@@ -31,12 +31,19 @@ body
 .First {
     background-color: #b82010;
     text-align: justify;
+    margin:0px;
+    padding: 2%
 }
 .Second {
     background-color: #00b8f0;
     text-align: justify;
+    margin:0px;
+    padding: 2%
 }
 .aside
 {
+    background-color: #00b8f0;
     max-width: 20%;
+    margin:0px;
+    padding: 2%
 }
