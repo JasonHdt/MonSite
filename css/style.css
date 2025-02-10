@@ -11,6 +11,7 @@ a {
     color:#f0c300;
     text-decoration: none;
     font-family: 'Manrope', sans-serif;
+    font-style: uppercase;
 }
 a:hover {
     color:#00b8f0;
