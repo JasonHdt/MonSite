@@ -28,6 +28,9 @@ body
 {
     background: linear-gradient(90deg, #303030, #61154d);
 }
-/*CSS pour le logo
- #logo {
+.First {
+    background-color: #b82010;
+}
+.Second {
+    background-color: #00b8f0;
 }
