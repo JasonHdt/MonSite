@@ -1,11 +1,22 @@
 p{
-    color:beige
+    color:beige;
+    font-size: 1.1em;
+    font-family:'Manrope', sans-serif;
+}
+ol {
+    font-size: 1em;
+    font-family: 'Manrope', sans-serif;
 }
 a {
-    color:#f0c300
+    color:#f0c300;
+    text-decoration: none;
+    font-family: 'Manrope', sans-serif;
+
 }
 h1 {
  color:#b82010 ;
+ font-size: 3.5em;
+ font-family:'Montserrat', sans-serif;
 }
 body
 {
