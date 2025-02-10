@@ -30,7 +30,9 @@ body
 }
 .First {
     background-color: #b82010;
+    text-align: justify;
 }
 .Second {
     background-color: #00b8f0;
+    text-align: justify;
 }
