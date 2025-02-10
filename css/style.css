@@ -26,7 +26,7 @@ h1 {
 }
 body
 {
-    background-color: 90deg, #303030, #61154d;
+    background: linear-gradient(90deg, #303030, #61154d);
 }
 /*CSS pour le logo
  #logo {
