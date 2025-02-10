@@ -11,6 +11,11 @@ a {
     color:#f0c300;
     text-decoration: none;
     font-family: 'Manrope', sans-serif;
+    border-radius: 25%;
+    border-color: #b82010;
+    border-left: 1em;
+    border-right: 1em;
+    border-bottom: 3em;
 
 }
 h1 {
